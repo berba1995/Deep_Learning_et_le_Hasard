@@ -9,3 +9,4 @@ Si vous n'etes pas un joueur de loto dans le sang et que vous êtes un matheux, 
 ## Nb : C'est un travail de recherche et il ne guarantit pas forcément des gains
 
 Vous trouverez l'article expliquant la démarche à cette adresse : https://ledatascientist.com/le-deep-learning-et-le-hasard-prediction-du-loto/
+
